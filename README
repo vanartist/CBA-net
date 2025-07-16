@@ -1,0 +1,15 @@
+1. Folder explanation
+
+New_sample_to_test: validation and test dataset.
+CBA_net_model: The generated CBA_net model.
+PTB_selected_dataset: The randomly selected samples from PTB dataset.
+PTB_XL: The original dataset.
+
+ECG_CBA_net.ipynb: The main file of this project(data processing and training).
+ECG_explanation.ipynb: The main code for explaining of the blackboard dataset.
+PTB_selected_dataset.csv: The selected data from PTB dataset.
+PTB_test.csv: The path of test dataset.
+PTB_train.csv: The path of train dataset.
+
+README
+requirements.txt
